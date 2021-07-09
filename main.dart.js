@@ -72638,7 +72638,7 @@ return M.c1(s,T.iM(C.ad,H.a([T.uP(s,U.a59("assets/images/main_top.png",136.8),s,
 K.PV.prototype={
 K:function(a,b){var s=null,r=b.W(t.w).f.a.b,q=T.cA(s,r*0.01,s),p=M.c1(s,C.lK,C.l,s,s,s,s,190,s,s,s,s,350),o=L.bh("Bem vindo!",s,s,s,A.co(s,s,C.u,s,s,s,s,s,s,s,s,32,s,C.aR,s,s,!0,s,s,s,s,s,s,s),s,s),n=T.cA(s,r*0.04,s),m=$.aFo()
 $.avp().toString
-return new S.HX(new T.dA(new S.aO(360,450,0,1/0),E.qO(T.f6(H.a([q,p,o,n,new G.CZ(r*0.4,new D.zs("assets/icons/chat.svg",s,s,m,s),s,s),T.cA(s,r*0.05,s),new G.qz("Entrar",new K.ago(b),C.at,s),L.bh("Vers\xe3o 07-07-2021 - 20:00hs",s,s,s,A.co(s,s,C.u,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s),s,s)],t.p),C.af,C.bE,C.ac),s),s),s)}}
+return new S.HX(new T.dA(new S.aO(360,450,0,1/0),E.qO(T.f6(H.a([q,p,o,n,new G.CZ(r*0.4,new D.zs("assets/icons/chat.svg",s,s,m,s),s,s),T.cA(s,r*0.05,s),new G.qz("Entrar",new K.ago(b),C.at,s),L.bh("Vers\xe3o 09-07-2021 - 14:00hs",s,s,s,A.co(s,s,C.u,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s),s,s)],t.p),C.af,C.bE,C.ac),s),s),s)}}
 K.ago.prototype={
 $0:function(){var s=V.l0(new K.agn(),null,t.z)
 K.cK(this.a,!1).fD(s)},
