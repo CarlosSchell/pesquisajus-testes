@@ -72442,7 +72442,7 @@ return P.W($async$nY,r)},
 I:function(a,b){var s,r,q=null
 P.a0("Entrou no builder do PublicacoesMeusProcessosScreen page")
 s=this.a.c
-r=L.aY("Processo "+s,q,q,q,A.bq(q,q,q,q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,q,q,q,q,q,q),q,q)
+r=L.aY("Meu Processo "+s,q,q,q,A.bq(q,q,q,q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,q,q,q,q,q,q),q,q)
 return M.ll(E.p1(q,!0,C.bH.h(0,900),q,r),B.ast(new A.alG(this),this.nY(s),t.H),q,q,q,q,q)}}
 A.alH.prototype={
 $1:function(a){return K.azd(a)},
