@@ -72559,15 +72559,16 @@ while(true)switch(s){case 0:s=2
 return P.Y(T.tq(new T.mw(a)),$async$wP)
 case 2:return P.U(null,r)}})
 return P.V($async$wP,r)},
-a9U:function(a){var s=this
-s.aj(new G.alV(s,a))
-if(s.d===0){P.a_("Tribunal")
-P.a_(s.a.c.dx)
-s.wP(s.a.c.dx)
-s.rm("https://www.tjrs.jus.br/novo/busca/?return=proc&client=wp_index")
-P.a_("Saiu do wait")}if(s.d===1)P.a_("Email")
-if(s.d===2){P.a_("launchWhatsApp")
-s.yq("55 51 99 1068021","alow")}},
+a9U:function(a){var s,r=this
+r.aj(new G.alV(r,a))
+if(r.d===0){P.a_("Tribunal")
+P.a_(r.a.c.dx)
+r.wP(r.a.c.dx)
+r.rm("https://www.tjrs.jus.br/novo/busca/?return=proc&client=wp_index")
+P.a_("Saiu do wait")}if(r.d===1)P.a_("Email")
+if(r.d===2){P.a_("launchWhatsApp")
+s=r.a.c
+r.yq("55 51 99 1068021","Data: "+s.z+"/"+s.y+"/"+s.x+" - TJ"+s.a+"\n"+s.fx)}},
 I:function(a,b){var s,r,q=null,p=E.mk(q,!0,C.ba.h(0,900),q,C.LE),o=C.CV.h(0,50),n=this.a
 o=M.bP(C.ey,new T.dl(new S.aN(360,1/0,0,1/0),E.lr(T.e2(H.a([new O.uZ(n.c,n.d,q)],t.p),C.aa,C.b8,C.a7),q),q),C.l,q,q,new S.cU(o,q,q,q,q,q,C.Z),q,q,q,q,q,q,q)
 n=K.ay(b).ae0(C.T.h(0,100))
@@ -72575,7 +72576,7 @@ s=this.d
 r=C.ba.h(0,800)
 r.toString
 return M.jV(p,o,new K.ra(n,L.axa(s,C.xY,this.ga9T(),r,C.P),q),q,q,q,q)},
-cT:function(a){return"alow".$0()}}
+cT:function(a){return"".$0()}}
 G.alV.prototype={
 $0:function(){this.a.d=this.b},
 $S:0}
@@ -72916,7 +72917,7 @@ return M.bP(s,T.iS(C.af,H.a([T.uT(s,U.a5f("assets/images/main_top.png",136.8),s,
 K.PX.prototype={
 I:function(a,b){var s=null,r=b.V(t.w).f.a.b,q=T.cv(s,r*0.01,s),p=M.bP(s,C.lS,C.l,s,s,s,s,190,s,s,s,s,350),o=L.aZ("Bem vindo!",s,s,s,A.bu(s,s,C.t,s,s,s,s,s,s,s,s,32,s,C.a6,s,s,!0,s,s,s,s,s,s,s),s,s),n=T.cv(s,r*0.04,s),m=$.aFL()
 $.avN().toString
-return new S.I_(new T.dl(new S.aN(360,450,0,1/0),E.lr(T.e2(H.a([q,p,o,n,new G.D0(r*0.4,new D.zu("assets/icons/chat.svg",s,s,m,s),s,s),T.cv(s,r*0.05,s),new G.qG("Entrar",new K.agE(b),C.aq,s),L.aZ("Vers\xe3o 11-07-2021 - 18:00hs",s,s,s,A.bu(s,s,C.t,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s),s,s)],t.p),C.aa,C.b8,C.a7),s),s),s)}}
+return new S.I_(new T.dl(new S.aN(360,450,0,1/0),E.lr(T.e2(H.a([q,p,o,n,new G.D0(r*0.4,new D.zu("assets/icons/chat.svg",s,s,m,s),s,s),T.cv(s,r*0.05,s),new G.qG("Entrar",new K.agE(b),C.aq,s),L.aZ("Vers\xe3o 12-07-2021 - 08:00hs",s,s,s,A.bu(s,s,C.t,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s),s,s)],t.p),C.aa,C.b8,C.a7),s),s),s)}}
 K.agE.prototype={
 $0:function(){var s=V.hR(new K.agD(),null,t.z)
 K.cp(this.a,!1).eV(s)},
