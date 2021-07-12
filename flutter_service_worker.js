@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cffd1a08e88eb92b6d1dd4cda2df5d3d",
+  "assets/AssetManifest.json": "457bc97e1bec92549789f483504c73e0",
 "assets/assets/icons/chat.svg": "6603c9da23d55c3ab75cf052cf2e5b53",
 "assets/assets/icons/facebook.svg": "e44d4dd6594e6ae6718a89059f29cdc7",
 "assets/assets/icons/google-plus.svg": "3f71987b1e86c1f980e19a685acd040c",
 "assets/assets/icons/login.svg": "a7711b1f104c98c8ae18420653074837",
 "assets/assets/icons/signup.svg": "2fa408c0387578db0675dc11edc3e0fa",
 "assets/assets/icons/twitter.svg": "7e145c9eb60da95379f070be9920eca5",
+"assets/assets/icons/whatsapp.svg": "a881270183c6e504d3d92cae4e9a097f",
 "assets/assets/images/lex_logo.png": "ce1222da82a16038d21848c0631ae599",
 "assets/assets/images/login_bottom.png": "b473d9b1b30607e274348f114273a094",
 "assets/assets/images/main_bottom.png": "322c8b4cda43fe21e0d78a1f30f387ce",
@@ -18,14 +19,14 @@ const RESOURCES = {
 "assets/assets/keys/public.key": "2c73d76d31cbfbf2c960ebd434f7c459",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "ab89a1a6cf941108439730cf22f16668",
+"assets/NOTICES": "b8a0c73ac85601637eebfb217451224e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c0503b8b2025bd560be577c26a585365",
-"/": "c0503b8b2025bd560be577c26a585365",
-"main.dart.js": "3ffd4f93b59b663adf480953f6427781",
+"index.html": "db870fc84db94b25ae82f350711e82f1",
+"/": "db870fc84db94b25ae82f350711e82f1",
+"main.dart.js": "55aba534fc7604a11fb6369b0f61e996",
 "manifest.json": "d9cd7826ca19fe627866e1dc86f0642c",
 "version.json": "a6bfa4f02e90dbea213e2f1f240743f5"
 };
